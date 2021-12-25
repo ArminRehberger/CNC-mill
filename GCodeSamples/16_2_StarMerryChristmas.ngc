@@ -1,0 +1,26 @@
+G90
+G0 X140 Y-20.718
+M03 S20000 (Turn spindle on clockwise, 20000/min)
+G04 P2.0 (Delay time 2.0sec)
+G0 Z2.000
+G1 Z-1 F400
+(##### Star #####)
+G1 X143.301 Y-65 F800 (800mm/min = 13mm/s)
+G1 X180 Y-90
+G1 X143.301 Y-115
+G1 X140 Y-159.282
+G1 X100 Y-140
+G1 X60 Y-159.282
+G1 X56.699 Y-115
+G1 X20 Y-90
+G1 X56.699 Y-65
+G1 X60 Y-20.718
+G1 X100 Y-40
+G1 X140 Y-20.718
+(##### End #####)
+G1 Z2.000
+G0 Z50.000
+G0 X0 Y0
+M05 (Spindel ausschalten)
+G04 P2.0 (Verweilzeit 2.0sec)
+M30

@@ -1,0 +1,3 @@
+G90
+G74 X2 Y2 Z1 (Reference run sequence 1. Z, 2. X und Y))
+M30
