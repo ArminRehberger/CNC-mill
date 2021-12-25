@@ -20,6 +20,5 @@ Four bytes, Hexadecimal, are used to transfer the actual positions of the axis f
 Pi (0.0000 to 9999.9999 mm)
 
 Disclaimer
-
 This hardware/software is provided "as is", and you use the hardware/software at your own risk. Under no circumstances shall any author be liable for direct, indirect, special, incidental, or consequential damages resulting from the use, misuse, or inability to use this hardware/software, even if the authors have been advised of the possibility of such damages
 
