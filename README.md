@@ -4,6 +4,9 @@ CNC mill with Raspperry GUI and Teensy real time system
 Video:
 https://www.youtube.com/watch?v=XnDwizPUjZA&t=19s
 
+Functional description:
+FunctionDescriptionCNC_V1_00.pdf
+
 Implementation of a mechatronic CNC mill.
 Raspberry PI is used to operate the mill, a graphical GUI is implemented.
 Teensy4.0 is used to control the real time CNC machine.
