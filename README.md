@@ -16,7 +16,7 @@ The 0-10V PWM signal for the spindle speed can be forced.
 The tool length can be automatically measured with a tool length sensor.
 The state of the digital inputs are displayed (Reference sensors X, Y, Z, emergency stop and tool
 length sensor.
-Four bytes, Hexadecimal, are used to transfer the actual positions of the axis from the Teensi to the
+Four bytes, Hexadecimal, are used to transfer the actual positions of the axis from the Teensy to the
 Pi (0.0000 to 9999.9999 mm)
 
 Disclaimer:
