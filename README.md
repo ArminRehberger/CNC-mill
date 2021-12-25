@@ -1,4 +1,4 @@
-# CNC-mill
+# CNC-mill, control with Teensy4.0
 CNC mill with Raspperry GUI and Teensy real time system
 
 Video:
