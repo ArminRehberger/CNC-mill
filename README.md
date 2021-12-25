@@ -2,9 +2,11 @@
 CNC mill with Raspperry GUI and Teensy real time system
 
 Video:
+
 https://www.youtube.com/watch?v=XnDwizPUjZA&t=19s
 
 Functional description:
+
 FunctionDescriptionCNC_V1_00.pdf
 
 Implementation of a mechatronic CNC mill.
