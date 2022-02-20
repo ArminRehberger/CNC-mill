@@ -1,0 +1,5 @@
+G90
+G74 X2 Y2 Z1 (Reference run sequence 1. Z, 2. X und Y))
+G54 X-173.3849 y5.0925 z11
+G1 X100 Y-100 Z0 F2400 (Position measure tool length)
+M30
