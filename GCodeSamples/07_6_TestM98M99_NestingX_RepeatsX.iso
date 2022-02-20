@@ -1,0 +1,21 @@
+G90 (##### Main)
+M98 P1000 L1
+G04 P0.5 (Delay time 0.5sec)
+M98 P1000 L2
+G04 P0.6 (Delay time 0.6sec)
+M98 P1000 L3
+G04 P0.7 (Delay time 0.7sec)
+M30
+O1000 (Subprogram 1000 #####################################)
+G04 P0.1 (Delay time 0.1sec)
+M98 P2000 L1
+G04 P0.1 (Delay time 0.1sec)
+M99
+O2000 (Subprogram 2000 #####################################)
+G04 P0.11 (Delay time 0.11sec)
+M98 P3000 L1
+G04 P0.11 (Delay time 0.11sec)
+M99
+O3000 (Subprogram 3000 #####################################)
+G04 P0.12 (Delay time 0.12sec)
+M99
